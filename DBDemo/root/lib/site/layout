@@ -1,0 +1,7 @@
+[% PROCESS site/header %]
+
+<div class="container-fluid">
+[% content %]
+
+<div id="footer">[% PROCESS site/footer %]</div>
+</div><!-- container-fluid -->

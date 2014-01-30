@@ -1,0 +1,7 @@
+<!-- BEGIN site/footer -->
+      <div class="row-fluid">
+       <div class="span4">
+         <div id="copyright">&copy; [% site.copyright %]</div>
+       </div>
+      </div>
+<!-- END site/footer -->

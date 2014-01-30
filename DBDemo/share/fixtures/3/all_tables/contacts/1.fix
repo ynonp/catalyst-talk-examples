@@ -1,0 +1,5 @@
+$HASH1 = {
+           email => 'joe@gmail.com',
+           id    => 1,
+           name  => 'joe'
+         };
